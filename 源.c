@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>      /*输入01模式的ip地址，变为10进制*/
 #include<stdlib.h>
 int main()
 {
